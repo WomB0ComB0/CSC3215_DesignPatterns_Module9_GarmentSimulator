@@ -40,3 +40,4 @@
     - [x] Include an image of the output in the README.md file.
 
 ## Output
+![Output](https://github.com/WomB0ComB0/CSC3215_DesignPatterns_Module9_GarmentSimulator/assets/95197809/46f8acc4-5997-4680-a89f-1ef8c53992ed)

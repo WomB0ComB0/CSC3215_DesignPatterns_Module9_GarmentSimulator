@@ -5,14 +5,16 @@ import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 /**
- * Unit test for simple App.
+ * Unit test for the App class.
+ * 
+ * @version 1.0
  */
 public class AppTest 
     extends TestCase
 {
     /**
-     * Create the test case
-     *
+     * Constructs a test case with the specified name.
+     * 
      * @param testName name of the test case
      */
     public AppTest( String testName )
@@ -29,7 +31,7 @@ public class AppTest
     }
 
     /**
-     * Rigourous Test :-)
+     * Rigorous Test :-)
      */
     public void testApp()
     {
